@@ -10,7 +10,7 @@ revenue for a business. It utilizes data analytics and technology to target spec
 </p>
 <br>
 
-<h1 align="center">Hi 👋, I'm Kaviasudhan</h1>
+<h1 align="center">Hi 👋, I'm AVINASH</h1>
 
 <img src="https://komarev.com/ghpvc/?username=asdfasdf&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile_Counter"/> </p>
 
