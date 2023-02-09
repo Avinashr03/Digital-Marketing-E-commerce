@@ -16,7 +16,7 @@ revenue for a business. It utilizes data analytics and technology to target spec
 
 <h3 align="left">Project Files</h3>
 
-### Company Name: VSKS Speakers Store
+### Company Name: AKT TRENDS E-Commerce
 
 ### Language and Tools Used:
 <ol>
